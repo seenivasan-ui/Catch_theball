@@ -18,10 +18,6 @@ Python
 
 Pygame
 
-📷 Game Preview
-
-(Add a screenshot of your game here)
-
 🎮 How to Play
 
 Run the game.
